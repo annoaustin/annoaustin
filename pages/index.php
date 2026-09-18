@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Anno Austin | Under Construction</title>
-<link href="../css/index.cs" rel="stylesheet" type="text/css">
+<link href="../css/index.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	
